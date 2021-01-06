@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "加密解密", "加密解密\加密解密.csproj", "{078106D0-5557-4C51-845A-D97720250814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSAKeys", "RSAKeys\RSAKeys.csproj", "{46D953A1-4DDD-4AFD-84DA-79D5E81159B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{078106D0-5557-4C51-845A-D97720250814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078106D0-5557-4C51-845A-D97720250814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078106D0-5557-4C51-845A-D97720250814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078106D0-5557-4C51-845A-D97720250814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D953A1-4DDD-4AFD-84DA-79D5E81159B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D953A1-4DDD-4AFD-84DA-79D5E81159B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D953A1-4DDD-4AFD-84DA-79D5E81159B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D953A1-4DDD-4AFD-84DA-79D5E81159B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C2D734-F1E5-485D-9460-85AD0A18C63F}
+	EndGlobalSection
+EndGlobal
